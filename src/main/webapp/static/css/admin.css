@@ -1,0 +1,57 @@
+.box-header{
+    background: red; 
+}
+h1{
+    color: #3498DB;
+    font: bold;
+}
+.huge{
+    font-size: 40px;
+}
+.pull-left{
+    color: #0069d9;
+}
+.pull-right{
+  color: #0069d9;  
+
+}
+.tag-boxes .panel-primary{
+    border:  1px solid #0069d9;
+}
+.tag-boxes .panel-red {
+    color: white;
+    background: #d9534f;
+    
+}
+.tag-boxes .panel-red a{
+    color: #d9534f;
+}
+.tag-boxes .panel-red a:hover{
+    color: #b52b27;
+}
+
+.tag-boxes .panel-green{
+    color: white;
+    background:#2ECC71;
+    
+}
+.tag-boxes .panel-green a{
+    color: #2ECC71;
+}
+.tag-boxes .panel-green a:hover{
+    color: #b52b27;
+}
+.tag-boxes .panel-grey{
+    color: white;
+    background:#5D6D7E  ;
+    
+}
+.tag-boxes .panel-grey a{
+    color: #5D6D7E ;
+}
+.tag-boxes .panel-grey a:hover{
+    color: #b52b27;
+}
+ tr {
+    
+}

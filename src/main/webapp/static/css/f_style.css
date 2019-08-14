@@ -1,0 +1,36 @@
+body{
+    
+}
+
+.p-contert{
+    padding-left: 25px;
+    
+    
+}
+.single{
+    width: 230px;
+    margin-top: 20px;
+    
+}
+#p-content .product{
+    background: #ffffff;
+    border: solid 2px #e6e6e6;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.name{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.rating{
+    color: #d58512;
+    font-size: 15px;
+}
+
+.price{
+    font-size: 19px;
+    color: black;
+    text-align: center;
+}
+}

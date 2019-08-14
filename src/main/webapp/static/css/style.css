@@ -1,0 +1,76 @@
+
+
+.nav > li {
+    color: black;
+    font-size: 15px;
+}
+
+.header{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/s2.png");
+    background-size: cover;
+    background-position: center;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color:black;
+    
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+span{
+    color: #f44336;
+}
+.search-field{
+    height: 50px;
+    padding: 10px;
+    border-radius: 5px;
+   
+}
+.skills
+{
+    width: 400px;
+     
+     
+}
+.search-btn{
+    height: 50px;
+    width: 150px;
+    background: #f44336;
+    border:none;
+    color: #fff;
+    border-radius: 5px;
+}
+.search-btn:hover{
+    background: #bb0d00;
+    cursor: pointer;
+}
+
+.container {
+    padding: 10px;
+}
+.container > input{
+    display: inline-block;
+}
+.box{
+    background: #ffffff;
+    margin: 0 0 30px;
+    border: solid 1px #e6e6e6;
+    box-sizing: border-box;
+    padding: 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, .3);
+}
+.box .box-header{
+    background-color: #f7f7f7;
+    margin: -20px -20px 20px;
+    padding: 20px;
+    border-top: 1px solid #eeeeee;
+}
+.box h2{
+    color:steelblue;
+}
+
